@@ -20,8 +20,10 @@ function About() {
       <Banner />
       <section>
         <div className="container">
-          <h1>About Us</h1>
-        
+          <h1>hello there if you visit this site you are bad</h1>
+          <h2>jkjk</h2> 
+          <h3>oh wait you are bad nvm</h3> 
+          <h4>haha i am very funny</h4>
         </div>
       </section>
       <Footer />
