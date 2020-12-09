@@ -81,3 +81,7 @@ section .container {
   background: #f9f9f9;
   color: #3d4c60;
 }
+
+.banner {
+    text-align: center;
+}
